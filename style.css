@@ -465,23 +465,6 @@ a.button {
     border-radius: 30px;
     width: auto;
 }
-a.button:hover {
-    border-style: solid;
-    border-color: #669834;
-    border-width: 5px 15px 5px 15px;
-    display: inline-block;
-    background: #669834;
-    border-radius: 30px;
-    font-size: 14px;
-    font-family: arial, 'helvetica neue', helvetica, sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    line-height: 120%;
-    color: #ffffff;
-    text-decoration: none;
-    width: auto;
-    text-align: center;
-}
 
 p.green{
     color: #669834;
